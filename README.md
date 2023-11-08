@@ -6,7 +6,7 @@
 
 ## 📄 Descrição
 
-Uma página de dados, onde o usuário consegue consultar uma tabela com 100 dados de compras, tendo informações como: nome de quem comprou, email, valor da compra, tipo de pagamento e data da compra. O usuário também consegue filtrar os dados por nome, email, valor da compra, tipo de pagamento e status da compra. Alem disso uma parte de estatísticas, onde o usuário consegue ver alguns dados com mais precisão.
+Uma página de dados, onde o usuário consegue consultar uma tabela com 100 dados de compras, tendo informações como: nome de quem comprou, email, valor da compra, tipo de pagamento e status da compra. Alem disso uma parte de estatísticas, onde o usuário consegue ver alguns dados com mais precisão.
 
 ### <a href="https://luizfelipe9627-dados-origamid.netlify.app">Acesse o projeto</a>
 
