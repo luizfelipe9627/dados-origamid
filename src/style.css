@@ -1,15 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-size: 1.25rem;
   font-family: sans-serif;
   margin: 2rem;
+  overflow-x: hidden;
 }
 
 table {
+  width: 100%;
   border-spacing: 0;
   text-align: left;
 }
 
-table td, table th {
+table td,
+table th {
   padding: .5rem 1rem;
 }
 
@@ -17,7 +24,8 @@ table tr:nth-child(even) {
   background-color: #f8f8ff;
 }
 
-h2, p {
+h2,
+p {
   margin-left: 1rem;
 }
 
@@ -26,6 +34,7 @@ h2 {
   padding-top: 1rem;
 }
 
-div {
+#pagamento,
+#status {
   border-top: 3px solid #f8f8ff;
 }
